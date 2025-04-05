@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For more information and updates, visit the [BookBridge GitHub Repository](https://github.com/samwithwicky/BookBridge.git).
+Requires your own firebase setup to run otherwise will pop error.
